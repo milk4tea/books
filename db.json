@@ -1,8 +1,12 @@
 {
   "books": [
     {
-      "title": "Book 1A",
+      "title": "Book 1",
       "id": 1
+    },
+    {
+      "title": "Book 2A",
+      "id": 2
     }
   ]
 }
